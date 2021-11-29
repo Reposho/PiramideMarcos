@@ -4,6 +4,6 @@
     "scripts" : {
         "start" : "node nodepiramide.js"
     },
-    "author" : "agustin castillo"
+    "author" : "Marcos Funes"
 }
     
